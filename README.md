@@ -1,0 +1,2 @@
+# CompositePattern
+Trabalho Composite Pattern
