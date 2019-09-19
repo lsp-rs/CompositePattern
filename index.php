@@ -1,6 +1,6 @@
 <?php
 
-include_once 'Component.php'
+include_once 'Component.php';
 
 /*
     O código do cliente obtém uma interface conveniente para a
