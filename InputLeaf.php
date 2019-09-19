@@ -1,6 +1,5 @@
 <?php
 
-
 /*
     Este é um componente Folha. Como todas as folhas, não pode ter filhos.
 */
