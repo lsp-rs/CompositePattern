@@ -1,6 +1,6 @@
 <?php
 
-//    O elemento fieldset é um composto de concreto.
+//    O elemento fieldset é um composto.
 class Fieldset extends FieldComposite {
     public function render(): string {
         /*
